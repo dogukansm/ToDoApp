@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "374e925e-74b0-43de-a22d-139d817f6960": {
+      "ProjectGuid": "374e925e-74b0-43de-a22d-139d817f6960",
+      "DisplayName": "TodoApp.API",
+      "ColorIndex": 0
+    },
+    "893b567d-d82c-4e84-878b-1e13f4e8bce1": {
+      "ProjectGuid": "893b567d-d82c-4e84-878b-1e13f4e8bce1",
+      "DisplayName": "TodoApp.API",
+      "ColorIndex": 1
+    },
+    "e21ac9b8-9c89-44a0-b5f0-7c222421f92c": {
+      "ProjectGuid": "e21ac9b8-9c89-44a0-b5f0-7c222421f92c",
+      "DisplayName": "TodoApp.API",
+      "ColorIndex": 2
+    },
+    "89b9ffa1-e664-479b-909d-5f9d7217bc65": {
+      "ProjectGuid": "89b9ffa1-e664-479b-909d-5f9d7217bc65",
+      "DisplayName": "TodoApp.API",
+      "ColorIndex": 3
+    },
+    "7473a769-c811-402d-ae3b-42026f3726eb": {
+      "ProjectGuid": "7473a769-c811-402d-ae3b-42026f3726eb",
+      "DisplayName": "TodoApp.API",
+      "ColorIndex": 4
+    },
+    "e6f5b1d8-9951-4f5b-af59-670477ccd4fc": {
+      "ProjectGuid": "e6f5b1d8-9951-4f5b-af59-670477ccd4fc",
+      "DisplayName": "TodoApp.UI",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
